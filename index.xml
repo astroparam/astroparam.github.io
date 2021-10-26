@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Astroparam</title>
-    <link>https://astroparam.github.com/</link>
+    <link>https://astroparam.github.io/</link>
     <description>Recent content on Astroparam</description>
     <image>
-      <url>https://astroparam.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://astroparam.github.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://astroparam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://astroparam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://astroparam.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://astroparam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://astroparam.github.com/about/</link>
+      <link>https://astroparam.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroparam.github.com/about/</guid>
+      <guid>https://astroparam.github.io/about/</guid>
       <description>Hi, My name is Parmeshwar Patidar, but go by Param among friends. I am, an IT undergrad, self-driven with a can-do mindset who learns quickly and cares about details, I find coding in Go really, really fun1. Distributed systems and compilers interest me most.
 Apart from being close to monitor, I like to explore the cosmos and play(and watch) cricket.
 License All entries in this blog (posts and code snippets), are thus released under Creative Commons Attribution-ShareAlike 4.</description>
@@ -22,10 +22,10 @@ License All entries in this blog (posts and code snippets), are thus released un
     
     <item>
       <title>About Me</title>
-      <link>https://astroparam.github.com/about/</link>
+      <link>https://astroparam.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroparam.github.com/about/</guid>
+      <guid>https://astroparam.github.io/about/</guid>
       <description>Hi, My name is Parmeshwar Patidar, but go by Param among friends. I am, an IT undergrad, self-driven with a can-do mindset who learns quickly and cares about details, I find coding in Go really, really fun1. Distributed systems and compilers interest me most. Apart from being close to monitor, I like to explore the cosmos and play(and watch) cricket.
 License All entries in this blog (posts and code snippets), are thus released under Creative Commons Attribution-ShareAlike 4.</description>
     </item>
@@ -33,10 +33,10 @@ License All entries in this blog (posts and code snippets), are thus released un
     
     <item>
       <title>Projects</title>
-      <link>https://astroparam.github.com/projects/</link>
+      <link>https://astroparam.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://astroparam.github.com/projects/</guid>
+      <guid>https://astroparam.github.io/projects/</guid>
       <description>Listing soon&amp;hellip;</description>
     </item>
     
