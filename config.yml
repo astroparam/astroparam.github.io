@@ -58,10 +58,8 @@ params:
         enabled: true # needs to be explicitly set
         title: Parmeshwar Patidar
         subtitle: "Programmer • Amateur Astronomer"
-        imageUrl: "/images/logo.jpg"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: my image
+        imageUrl: "/images/avatar.jpg"
+        imageTitle: Avatar
         buttons:
             - name: Blog
               url: posts
