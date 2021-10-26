@@ -1,0 +1,34 @@
+.idea/
+.vscode/
+node_modules/
+
+# vim temp
+*~
+*.swp
+*.swo
+
+# hugo
+/public
+hugo_stats.json
+
+/resources/_gen
+/isableFastRender/
+
+
+# Executable may be added to repo
+hugo.exe
+hugo.darwin
+hugo.linux
+
+.settings/
+[Oo]bj/
+[Bb]in/
+bin/
+bin-debug/
+bin-release/
+
+*.swf
+*.air
+*.ipa
+*.apk
+/writing
