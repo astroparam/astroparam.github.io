@@ -15,4 +15,4 @@ All entries in this blog (posts and code snippets), are thus released under Crea
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). I strongly believe that shared knowledge,
 in every field, is the only way to achieve real progress.
 
-[^1]: Though I work with any language.
+[^1]: Though I'm not restricted to any language or framework.
